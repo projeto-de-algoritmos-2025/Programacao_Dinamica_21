@@ -1,0 +1,10 @@
+[
+    { "nome": "Copíar arquivo",  "inicio": 1, "fim": 4,  "lucro": 20 },
+    { "nome": "Discord",         "inicio": 3, "fim": 5,  "lucro": 40 },
+    { "nome": "Docker",          "inicio": 0, "fim": 6,  "lucro": 80 },
+    { "nome": "Terminal",        "inicio": 4, "fim": 7,  "lucro": 30 },
+    { "nome": "Firefox",         "inicio": 6, "fim": 8,  "lucro": 50 },
+    { "nome": "Systemd",         "inicio": 7, "fim": 9,  "lucro": 70 },
+    { "nome": "Socket Process",  "inicio": 9, "fim": 11, "lucro": 10 },
+    { "nome": "Trojan Process",  "inicio": 10, "fim": 14, "lucro": 100 }
+]
